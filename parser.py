@@ -1,7 +1,8 @@
-from functions import get_html, save_json
+from functions import get_html, save_json, save_db
 
 
-fname = r"D:\python\parser\mhtlm_files\messages.html"
+
+fname = r"D:\python\parser\mhtlm_files\messages6.html"
 
 
 def get_info(html):
@@ -34,6 +35,28 @@ def get_info(html):
                     except:
                         text_content = body.find('div', class_='text').get_text()
                         dict_learning_content[reply_id] = [text_content]
+            else:
+                reply_id_details = body.find('div', class_='reply_to details')
+                #reply_id = ''.join(reply_id_details.find('a').get('href').split('#go_to_message'))
+                try:
+                    reply_id = ''.join(reply_id_details.find('a').get('href').split('#go_to_message'))
+                    reply_id = int(reply_id)
+                except:
+                    reply_id = reply_id_details.find('a').get('href').split('#go_to_message')
+                    reply_id = reply_id[1]
+                if body.find('div', class_='media_wrap clearfix'):
+                    box = body.find('div', class_='media_wrap clearfix')
+                    file_link = box.find('a').get('href')
+                    dict_learning_content[reply_id] = [file_link]
+                else:
+                    try:
+                        box_url = body.find('div', class_='text')
+                        url = box_url.find('a').get('href')
+                        dict_learning_content[reply_id] = [url]
+                    except:
+                        text_content = body.find('div', class_='text').get_text()
+                        dict_learning_content[reply_id] = [text_content]
+
         except:
             pass
     for i in messages_2:
@@ -41,6 +64,12 @@ def get_info(html):
         if body.find('div', class_='reply_to details'):
             reply_id_details = body.find('div', class_='reply_to details')
             reply_id = ''.join(reply_id_details.find('a').get('href').split('#go_to_message'))
+            # try:
+            #     if int(reply_id):
+            #         reply_id = reply_id
+            # except:
+            #     reply_id = reply_id_details.find('a').get('href').split('#go_to_message')
+            #     reply_id = reply_id[1]
             try:
                 if body.find('div', class_='media_wrap clearfix'):
                     box = body.find('div', class_='media_wrap clearfix')
@@ -55,6 +84,8 @@ def get_info(html):
                         text_content = body.find('div', class_='text').get_text()
                         dict_learning_content[reply_id].append(text_content)
 
+
+
             except:
                 pass
         else:
@@ -66,3 +97,4 @@ def get_info(html):
 main_html = get_html(fname)
 result = get_info(main_html)
 save_json(result)
+#save_db(result)
