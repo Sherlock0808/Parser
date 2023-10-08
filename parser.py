@@ -60,8 +60,7 @@ def get_info(html):
         except:
             pass
     for i in messages_2:
-
-        body = i.find('div', class_='body')
+        body = i.find('div', class_='body') # hello
         if body.find('div', class_='reply_to details'):
             reply_id_details = body.find('div', class_='reply_to details')
             reply_id = ''.join(reply_id_details.find('a').get('href').split('#go_to_message'))
