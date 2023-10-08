@@ -60,6 +60,7 @@ def get_info(html):
         except:
             pass
     for i in messages_2:
+
         body = i.find('div', class_='body')
         if body.find('div', class_='reply_to details'):
             reply_id_details = body.find('div', class_='reply_to details')
