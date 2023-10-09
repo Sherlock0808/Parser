@@ -1,203 +1,1044 @@
 {
-    "78521": [
-        "files/Docker_and_Kubernetes_Observability_with_Logz_io_DevOps_and_Docker.mhtml"
+    "4486": [
+        "https://www.altaro.com/vm-backup/download.php"
     ],
-    "78532": [
-        "files/Installing_Sentry_with_Docker_Sentry_is_an_open_source_error_tracking\u2026.mhtml"
+    "4557": [
+        "https://mobiletrans.wondershare.net/",
+        "https://play.google.com/store/apps/details?id=com.wondershare.mobiletrans&hl=en_US&gl=US",
+        "https://apps.apple.com/us/app/mobiletrans/id1545867834",
+        "https://www.mobiledit.com/phone-copier-express",
+        "https://gramfile.com/mobiledit-phone-copier-download/"
     ],
-    "78543": [
-        "files/BrowserStack vs Docker _ What are the differences_.mhtml"
+    "4564": [
+        "https://assistant.google.com/intl/en_be/platforms/phones/",
+        "https://support.google.com/assistant/thread/52879272/why-google-assistant-is-not-available-in-my-country-atleast-in-english-language?hl=en",
+        "https://www.quora.com/Does-Google-Assistant-work-differently-in-different-countries",
+        "https://www.sony-mea.com/en/electronics/support/articles/00201368",
+        "https://support.google.com/assistant/answer/7394513?hl=en&co=GENIE.Platform%3DAndroid",
+        "https://support-google-com.translate.goog/assistant/answer/7394513?hl=en&co=GENIE.Platform%3DAndroid&_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=sc",
+        "https://support.google.com/googlenest/answer/7550584?hl=en&co=GENIE.Platform%3DAndroid"
     ],
-    "78551": [
-        "files/DeployGate.mhtml"
+    "3211": [
+        "https://christoph-rumpel.com/2020/11/laravel-real-time-notifications",
+        "https://beyondco.de/docs/laravel-websockets/basic-usage/pusher",
+        "https://github.com/beyondcode/laravel-websockets-demo",
+        "https://beyondco.de/docs/laravel-websockets/getting-started/introduction",
+        "https://stackoverflow.com/questions/50576336/want-to-implement-web-sockets-in-laravel/50657253",
+        "socket.io",
+        "https://www.techzonemind.com/scalable-websocket-server-laravel-applications/"
     ],
-    "78557": [
-        "files/Available Plugins - fastlane docs.mhtml"
+    "4582": [
+        "https://github.com/beyondcode/laravel-self-diagnosis"
     ],
-    "78562": [
-        "files/dart_Writing_the_flutter_code_on_a_server_and_implementing_it_inside.mhtml"
+    "4585": [
+        "https://github.com/beyondcode/laravel-mailbox"
     ],
-    "78567": [
-        "files/Building_a_CI_CD_pipeline_with_Travis_CI,_Docker_and_AWS_in_9_steps.mhtml"
+    "4486": [
+        "\n                        d:\\Platform\\Backups\\VMs\\Altaro VM Backup\\Installer\\\n                    ",
+        "\n                        d:\\Platform\\Backups\\VMs\\Altaro VM Backup\\\n                    "
     ],
-    "77793": [
-        "video_files/Rec 0010.mp4"
+    "4542": [
+        "\nStep 6$targets = Get-VM | Select Name, @{N=\"CBT\";E={(Get-View\n                        $_).Config.ChangeTrackingEnabled}} | WHERE {$_.CBT -like \"False\"}ForEach ($target\n                        in $targets) { $vm = $target.Name Get-VM $vm | Get-Snapshot | Remove-Snapshot\n                        -confirm:$false $vmView = Get-vm $vm | get-view $vmConfigSpec = New-Object\n                        VMware.Vim.VirtualMachineConfigSpec $vmConfigSpec.changeTrackingEnabled = $true\n                        $vmView.reconfigVM($vmConfigSpec) New-Snapshot -VM (Get-VM $vm ) -Name\n                        \"CBTSnap\" Get-VM $vm | Get-Snapshot -Name \"CBTSnap\" | Remove-Snapshot\n                        -confirm:$false}\n                    "
     ],
-    "78572": [
-        "video_files/Rec 0011.mp4"
+    "4591": [
+        "video_files/Task configuration for Kaspersky ES.mp4",
+        "https://www.kaspersky.com/small-to-medium-business-security/downloads/endpoint?utm_content=endpoint-select",
+        "https://www.kaspersky.com/small-to-medium-business-security/downloads/endpoint?utm_content=endpoint-advanced",
+        "https://www.kaspersky.com/small-to-medium-business-security/windows-server-security",
+        "files/keswin_11.7.0.669_en_aes56.exe",
+        "video_files/Export Kaspersky ES config.mp4"
     ],
-    "77936": [
-        "video_files/Rec 0013.mp4"
+    "4596": [
+        "https://www.kaspersky.com/small-business-security/downloads/thank-you/small-office-security-free-trial",
+        "https://www.kaspersky.com/small-to-medium-business-security/windows-server-security"
     ],
-    "77586": [
-        "video_files/Rec 0003 (7).mp4"
+    "4600": [
+        "https://www.kaspersky.com/downloads/thank-you/free-virus-removal-tool",
+        "files/KVRT.exe"
     ],
-    "77947": [
-        "video_files/Rec 0014.mp4"
+    "4603": [
+        "https://free.drweb.ru/download+cureit/gr/"
     ],
-    "77572": [
-        "video_files/Rec 0001 (9).mp4"
+    "4607": [
+        "https://justbeamit.com/"
     ],
-    "78583": [
-        "files/flutterviz app.zip"
+    "4617": [
+        "https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=x-plore",
+        "https://programmy-dlya-android.ru/sistemnye/fajlovye-menedzhery/91-x-plorefilemanager.html",
+        "https://www.youtube.com/watch?v=NxePFrt7SG8",
+        "https://play.google.com/store/apps/details?id=com.lonelycatgames.Xplore&hl=uz&gl=US",
+        "https://trashbox.ru/link/x-plore-android",
+        "https://x-plore-file-manager.ru.uptodown.com/android"
     ],
-    "77972": [
-        "video_files/Rec 0015.mp4"
+    "4624": [
+        "https://www.google.ru/search?q=create+user+vcenter+6.7&oq=create+users+vcenter+&sourceid=chrome&ie=UTF-8",
+        "\n                        Select Menu > Administration > Single Sign-On.Click Users and Groups.Click\n                        Users.Select domain vSphere. local.Click Add User.In the Add User pop-up window,\n                        enter the values for the mandatory fields.Enter vxadmin as the Username and Password.\n                        ...Click Add.\n                    ",
+        "https://infohub.delltechnologies.com/l/vmware-cloud-foundation-on-vxrail-multirack-deployment-using-bgp-evpn-part-2-of-2-1/create-a-local-user-in-the-workload-domain-vcenter-server-1",
+        "https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vsphere.vcsa.doc/GUID-533AE852-A1F9-404E-8AC6-5D9FD65464E5.html"
     ],
-    "77562": [
-        "video_files/Rec 0002 (9).mp4"
+    "3400": [
+        "https://www.youtube.com/watch?v=Cwk4UqjR2JI&list=PLd2_Os8Cj3t-CoUEdoAiYc1sj21FH79no",
+        "\ncomposer global require laravel/installerlaravel new example-appcd\n                            example-appphp artisan serve\n",
+        "https://laravel.com/docs/8.x/installation#the-laravel-installer",
+        "\n                        Since many of Laravel's configuration option values may vary depending on whether your\n                        application is running on your local computer or on a production web server, many important\n                        configuration values are defined using the .env file that exists at the root of your\n                        application.Your .env file should not be committed to your application's\n                        source control, since each developer / server using your application could require a different\n                        environment configuration. Furthermore, this would be a security risk in the event an intruder\n                        gains access to your source control repository, since any sensitive credentials would get\n                        exposed.\n",
+        "https://www.youtube.com/watch?v=BUiZDl3cokQ&list=PLd2_Os8Cj3t8pnG4ubQemoqnTwf0VFEtU",
+        "https://www.youtube.com/watch?v=UqlVcp21X7c&list=PLd2_Os8Cj3t8StX6GztbdMIUXmgPuingB"
     ],
-    "78033": [
-        "video_files/Rec 0001 (10).mp4"
+    "3674": [
+        "https://youtu.be/H9MjR668X8Y"
     ],
-    "77554": [
-        "video_files/Rec 0003 (8).mp4"
+    "4659": [
+        "video_files/Restore OS Backup using Macrium Reflect Server.mp4",
+        "video_files/Backup, Create Windows Backup with Macrium Reflect v7.mp4",
+        "video_files/How to restore backup from Network Drive.mp4",
+        "video_files/Restore OS Backup using Macrium Reflect Server #2.mp4",
+        "video_files/Restoring Windows partitions with Macrium Reflect v6.mp4",
+        "files/7_24.zip",
+        "files/2.iso"
     ],
-    "74009": [
-        "video_files/How to write #Reason hashtag to Channel title.mp4"
+    "4675": [
+        "https://www.memuplay.com/ru/",
+        "https://rsload.net/soft/manager/23355-memu.html"
     ],
-    "78594": [
-        "\nPath D:\\Platform\\Backups\\P2V\\Macrium viBoot\\Element\n       "
+    "4684": [
+        "https://www.gameloop.com/"
     ],
-    "52546": [
+    "4687": [
+        "video_files/Restore Particular Tables with Navicat.mp4",
+        "video_files/Restore DB NB3 file with Navicat.mp4",
+        "https://www2.navicat.com/manual/online_manual/en/navicat/win_manual/Restore.html#:~:text=To%20restore%20a%20backup%20to,Browse%20the%20backup%20file",
+        "https://help.navicat.com/hc/en-us/articles/217806358-How-to-restore-particular-database-objects-from-the-backup-file-",
+        "https://www2.navicat.com/manual/online_manual/en/navicat/win_manual/DumpExecuteSQL.html"
+    ],
+    "4690": [
+        "video_files/How to backup & Data Transfer.mp4",
+        "video_files/Copy and transfer table across databases.mp4",
+        "video_files/Transfer_Database_to_Production_server_&_Automate_Backup_Processing.mp4",
+        "video_files/Transfer_Database_from_207_to_Local_Server_&_Restore_DB_from_Process.mp4",
+        "video_files/Platform-Transfer_data_from_one_table_to_another.mp4"
+    ],
+    "4659": [
+        "files/@windowsuzprogramm_Macrium_Reflect.rar"
+    ],
+    "4705": [
+        "http://www.visualwin.com/Log-in/minimum-password-length.html",
+        "\n                        secpol.msc\n                    ",
+        "files/GUI Interface.avi"
+    ],
+    "4710": [
+        "https://blog.crunchydata.com/blog/tentative-smarter-query-optimization-in-postgres-starts-with-pg_stat_statements",
+        "https://www.postgresql.org/docs/current/pgstatstatements.html",
+        "https://blog.crunchydata.com/blog/tentative-smarter-query-optimization-in-postgres-starts-with-pg_stat_statements",
+        "https://www.slideshare.net/citus_data/optimizing-your-app-by-understanding-your-postgres-railsconf-2019-samay-sharma",
+        "https://stackoverflow.com/questions/70380066/select-value-based-on-computation-of-column-value-and-aggregate",
+        "\nStats by CallsSELECT query, calls, total_time, rows,\n                        100.0 * shared_blks_hit / nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent,\n                        ROUND((total_time::numeric / calls::numeric), 2) as average_time_per_callFROM\n                        pg_stat_statementswhere calls > 100ORDER BY calls DESCLIMIT 10;\n                    ",
+        "\nWhich queries were called the mostSELECT * FROM pg_stat_statements\n                        ORDER BY calls desc LIMIT 5;\n                    ",
+        "\nWhich queries used the most CPU timeSELECT * FROM pg_stat_statements\n                        ORDER BY total_time desc LIMIT 10;\n                    ",
+        "\nWhat are the top 50 queries that I should look at (by total time hit)?SELECT\n                        query,calls,total_time,rows,100.0 * shared_blks_hit / nullif(shared_blks_hit + shared_blks_read,\n                        0) AS hit_percent,ROUND((total_time::numeric / calls::numeric),2) as average_time_per_call FROM\n                        pg_stat_statements ORDER BY total_time DESC LIMIT 50;\n                    ",
+        "\nWhat are the top 50 queries that I should look at (by speed of execution)\n                            ?SELECT query, calls, total_time, rows, 100.0 * shared_blks_hit /\n                        nullif(shared_blks_hit + shared_blks_read, 0) AS hit_percent, ROUND((total_time::numeric /\n                        calls::numeric),2) as average_time_per_call FROM pg_stat_statements ORDER BY\n                        average_time_per_call DESC LIMIT 10;\n                    ",
         ""
     ],
-    "78613": [
-        "voice_messages/audio_686@14-08-2023_22-04-19.ogg"
+    "4722": [
+        "https://docs.microsoft.com/en-us/windows-server/storage/storage-spaces/add-nodes",
+        "https://www.youtube.com/watch?v=7FmpozPHpUg",
+        "https://www.youtube.com/watch?v=dd7pZfmu4QU",
+        "https://www.google.ru/search?q=add+local+hdd+disks+to+storage+pool+&newwindow=1&biw=1418&bih=660&ei=yhvYYbfAGe2prgTqsYLIBQ&ved=0ahUKEwi3zbXwvJ_1AhXtlIsKHeqYAFkQ4dUDCA4&uact=5&oq=add+local+hdd+disks+to+storage+pool+&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABKBAhGGABQqxxY42JgxGNoBnACeACAAXmIAe4WkgEEMC4yNpgBAKABAcgBCMABAQ&sclient=gws-wiz",
+        "https://docs.netapp.com/us-en/ontap-sm-classic/online-help-96-97/task_adding_disks_to_storage_pool.html",
+        "video_files/Create & Format volumes from Storage Spaces Direct.mp4"
     ],
-    "78624": [
-        "voice_messages/audio_688@14-08-2023_22-09-44.ogg"
+    "4730": [
+        "https://rsload.net/soft/big-programm/page,1,20,14213-adobe-photoshop-cc-140-final-rus-126-gb.html",
+        "files/CS5.exe",
+        "https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format",
+        "https://www.youtube.com/watch?v=KR21zNW-410&list=PL30ZzYn5yk1kd8FZykk726fgR8_UvShpw",
+        "https://www.youtube.com/watch?v=sF_jSrBhdlg&list=PLYfCBK8IplO6v0QjCj-TSrFUXnRV0WxfE",
+        "https://www.youtube.com/watch?v=ldhG9fmgC7o&list=PL3wbaHK2ZjcfJuOSXPlQK_hU-as9E2umk",
+        "https://www.youtube.com/watch?v=LpxTQiQVLD8&list=PLs5ovhHfpg3-KNXQDL6awqIiH-qIv9ws6"
     ],
-    "74528": [
-        "video_files/7taps.mp4"
+    "4738": [
+        "https://www.photopea.com/",
+        "https://www.freephototool.com/",
+        "https://pixlr.com/ru/e/#template&category=instagram-post",
+        "https://bunnypic.com/",
+        "https://www.youtube.com/watch?v=LHWnQOlX7Cw&list=PLWo9muNw-oVRujzM_sF2TnIEz_4sQsAL-",
+        "https://www.youtube.com/watch?v=4pfdGEnFtUU&list=PLO3K3VFvlU6D1KgYzMtAyFEBR3mkxl9Yw",
+        "https://www.youtube.com/watch?v=9uH-OZ1co2w&list=PLZp0Tjt5hf7FCTT8orZXVdxHpqm4qQlpa"
     ],
-    "74590": [
-        "video_files/bandicam 2023-08-14 22-26-13-934.mp4"
+    "4743": [
+        "https://www.youtube.com/results?search_query=Canva+Pro+Free+for+Lifetime+",
+        "https://www.youtube.com/watch?v=Q2woR3DZfxg",
+        "https://www.youtube.com/watch?v=c17tRYQ4QMo",
+        "https://www.canva.com/ru_ru/"
     ],
-    "74589": [
-        "photos/photo_1648@15-08-2023_10-44-02.jpg"
+    "4753": [
+        "https://www.youtube.com/watch?v=kuAoHBinuQM&list=PLGaqv-o4UJ_AT_TXDdqVQzAdLPfD_jhhA",
+        "https://www.youtube.com/watch?v=u_8uDiVV1tg&list=PL_mkYI5PtgLDxrvyiToceEVAWVV3LeOca&index=1",
+        "https://www.youtube.com/watch?v=vDYZmDbl23M&list=PLgBB2hMr47sVKXe9V5pfcyz5Qsk_j21S0&index=1",
+        "https://www.youtube.com/watch?v=M1VFFvGTPYk&list=PL_mkYI5PtgLDR-aQj0QsZgzU2QT50KXOV&index=1"
     ],
-    "74529": [
-        "video_files/30learning.mp4"
+    "4760": [
+        "https://activecollab.com/help/books/self-hosted-activecollab/requirements",
+        "https://activecollab.com/help/books/self-hosted-activecollab/installation",
+        "https://gist.github.com/zirkan/2962526",
+        "https://gist.github.com/anonymous/e66e5094ddff71e8ea9e144647662358",
+        "https://www.howtoforge.com/running-activecollab-3-on-nginx-lemp-on-debian-wheezy-ubuntu-12.10",
+        "https://stackoverflow.com/questions/46905460/activecollab-5-nginx-url-rewrite-not-working"
     ],
-    "74531": [
-        "video_files/absorblms.mp4"
+    "4767": [
+        "https://www.google.ru/search?q=online+whiteboard&oq=online+black&sourceid=chrome&ie=UTF-8",
+        "https://zapier.com/blog/best-online-whiteboard/",
+        "https://whiteboard.fi/x9u32",
+        "https://miro.com/online-whiteboard/",
+        "https://idroo.com/",
+        "https://explaineverything.com/online-whiteboard/",
+        "https://app.ziteboard.com/",
+        "https://www.notebookcast.com/en/new-board"
     ],
-    "74587": [
-        "video_files/bandicam 2023-08-14 23-01-34-394.mp4"
+    "4776": [
+        "https://www.ej-technologies.com/products/jprofiler/overview.html",
+        "https://www.ej-technologies.com/download/jprofiler/files"
     ],
-    "74533": [
-        "https://www.youtube.com/@academyofmine"
+    "4779": [
+        "https://www.javatpoint.com/memory-leak-in-java",
+        "https://www.geeksforgeeks.org/memory-leaks-java/",
+        "https://stackify.com/memory-leaks-java/",
+        "https://rollbar.com/blog/how-to-detect-memory-leaks-in-java-causes-types-tools/",
+        "https://www.baeldung.com/java-memory-leaks",
+        "https://coderedirect.com/questions/616686/java-spring-application-has-memory-leak-system-non-heap-memory-increases-consta",
+        "https://www.toptal.com/java/hunting-memory-leaks-in-java",
+        "https://stackoverflow.com/questions/40040289/java-spring-application-has-memory-leak-system-non-heap-memory-increases-consta",
+        "https://www.google.ru/search?q=java+memory+leak&newwindow=1&ei=AGzZYZTPFaOyrgSomq3YDg&ved=0ahUKEwiUz-HB_aH1AhUjmYsKHShNC-sQ4dUDCA4&uact=5&oq=java+memory+leak&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjIGCAAQBxAeMgYIABAHEB4yBggAEAcQHjoHCAAQRxCwA0oECEEYAEoECEYYAFC1B1i1B2DDCGgBcAJ4AIABfIgBfJIBAzAuMZgBAKABAcgBCMABAQ&sclient=gws-wiz"
     ],
-    "74586": [
-        "video_files/bandicam 2023-08-14 23-01-34-394 (1).mp4"
+    "4789": [
+        "https://stackify.com/java-memory-leaks-solutions/",
+        "https://medium.com/illegalarguments/debugging-spring-boot-applications-for-memory-leaks-4ba5f8bee75a",
+        "https://seagence.com/blog/memory-leaks-in-java/",
+        "https://www.softwaretestinghelp.com/memory-leak-detection-tools/",
+        "https://bitmovin.com/finding-memory-leaks-java-p1/",
+        "https://bitmovin.com/java-memory-leak-detection/",
+        "https://docs.oracle.com/javase/10/troubleshoot/troubleshoot-memory-leaks.htm#JSTGD266",
+        "https://stackoverflow.com/questions/40119/how-to-find-a-java-memory-leak",
+        "https://developers.redhat.com/blog/2014/08/14/find-fix-memory-leaks-java-application#target_audience",
+        "https://rollbar.com/blog/how-to-detect-memory-leaks-in-java-causes-types-tools/"
     ],
-    "74534": [
-        "video_files/acorn.mp4"
+    "4801": [
+        "https://yandex.ru/map-constructor/",
+        "https://yandex.ru/dev/maps/",
+        "https://yandex.ru/dev/maps/jsapi/doc/2.1/quick-start/index.html?from=techmapsmain",
+        "https://yandex.ru/dev/maps/jsbox/2.1/geolocation_control/",
+        "https://yandex.ru/dev/maps/archive/doc/jsapi/1.x/dg/tasks/how-to-add-placemark.html"
     ],
-    "74585": [
-        "video_files/bandicam 2023-08-14 23-45-29-218.mp4"
+    "3344": [
+        "video_files/Idea Evaluation License 2022.mp4"
     ],
-    "74537": [
-        "video_files/beed.mp4"
+    "4810": [
+        "https://www.netlify.com/",
+        "https://www.netlify.com/products/",
+        "https://www.netlify.com/products/edge/",
+        "https://www.youtube.com/watch?v=bjVUqvcCnxM",
+        "https://www.youtube.com/watch?v=mT5siI19gtc",
+        "https://www.youtube.com/watch?v=O-fdE_mDR8w",
+        "https://www.youtube.com/watch?v=4h8B080Mv4U&list=PLzlG0L9jlhEPMR8haUPkxj2hJ_3jh5qa6",
+        "https://www.youtube.com/watch?v=qAUX2A-W4Bc&list=PLDlWc9AfQBfZXEMQORQ-l29praGOAT-KW"
     ],
-    "74582": [
-        "video_files/bandicam 2023-08-15 00-34-37-175.mp4"
+    "4820": [
+        "https://github.com/",
+        "https://www.youtube.com/watch?v=HwrPhOp6-aM&list=PL0lo9MOBetEHhfG9vJzVCTiDYcbhAiEqL",
+        "https://www.youtube.com/watch?v=M9uTajSRytE&list=PLyuRouwmQCjlxyO-45o53YCWjBCM-fA7L",
+        "https://www.youtube.com/watch?v=vR-y_2zWrIE&list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF",
+        "https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR"
     ],
-    "74541": [
-        "video_files/clanned.mp4"
+    "4826": [
+        "video_files/Please provide a valid cache path, Laravel.mp4",
+        "https://stackoverflow.com/questions/38483837/please-provide-a-valid-cache-path-error-in-laravel",
+        "\nTry the following:create these folders under\n                            storage/framework:sessionsviewscacheNow it should work\n",
+        "https://stackoverflow.com/questions/38931728/laravel-error-please-provide-a-valid-cache-path",
+        "https://stackoverflow.com/questions/55006492/uncaught-invalidargumentexception-please-provide-a-valid-cache-path",
+        "https://stackoverflow.com/questions/55006492/uncaught-invalidargumentexception-please-provide-a-valid-cache-path",
+        "photos/photo_64@10-01-2022_10-53-14.jpg"
     ],
-    "74381": [
-        "video_files/Rec 0002 (10).mp4"
+    "4836": [
+        "https://stackoverflow.com/questions/51210036/laravel-symlink-and-cpanel",
+        "\nphp artisan storage:link\n",
+        "https://stackoverflow.com/questions/38045119/how-to-create-symlink-from-public-storage-to-storage-app-public-in-laravel",
+        "https://laravel.com/docs/8.x/filesystem",
+        "https://laracasts.com/discuss/channels/laravel/where-and-how-to-create-symlink-from-publicstorage-to-storageapppublic",
+        "https://stackoverflow.com/questions/45825889/how-to-create-laravel-storage-symbolic-link-for-production-or-sub-domain-system",
+        "https://laravel.com/docs/8.x/filesystem",
+        "https://stackoverflow.com/questions/59309320/created-laravel-symlink-on-webserver-still-cant-access-the-file-without-app-pub",
+        "https://laracasts.com/discuss/channels/laravel/laravel-symlink-apache-cache-issue",
+        "https://www.google.ru/search?q=create+symlink+laravel+cache&newwindow=1&ei=HcbbYaXJCoHbrgT37KTwBA&oq=create+symlink+laravel+cac&gs_lcp=Cgdnd3Mtd2l6EAEYADIHCCEQChCgAToHCAAQRxCwAzoICCEQFhAdEB46BQghEKABSgQIQRgASgQIRhgAUOUBWMUGYIYKaAJwAngAgAGUAYgBiQOSAQMwLjOYAQCgAQHIAQjAAQE&sclient=gws-wiz"
     ],
-    "74581": [
-        "video_files/bandicam 2023-08-15 01-59-21-048.mp4"
+    "4204": [
+        "video_files/Create user ESXi and Add Permission VM.mp4",
+        "video_files/Create new Role, Group & assign permissions.mp4"
     ],
-    "74542": [
-        "video_files/claassgen.mp4"
+    "4414": [
+        "https://www.youtube.com/watch?v=l44IF9fBNOs&t=940s",
+        "video_files/Notifications (realtime).mp4"
     ],
-    "74578": [
-        "video_files/bandicam 2023-08-15 02-50-39-542.mp4"
+    "4851": [
+        "https://kb.vmware.com/s/article/2100508"
     ],
-    "74545": [
-        "video_files/cloudschool.mp4"
+    "4853": [
+        "https://techkiranangal.blogspot.com/2019/09/cannot-complete-login-due-to-incorrect.html"
     ],
-    "74577": [
-        "video_files/bandicam 2023-08-15 03-02-58-150.mp4"
+    "4856": [
+        "https://www.smart-pa.com/uk/blog/7-diary-management-skills-for-busy-entrepreneurs/",
+        "https://blog.functionfixers.co.uk/successful-diary-management-techiniques/",
+        "https://virtalent.com/blog/diary-management-tips/",
+        "https://www.practicallyperfectpa.com/2020/effective-calendar-management-for-executive-assistants/02/18",
+        "https://www.orielpartners.co.uk/blog/diary-management-tips-for-pas",
+        "https://www.venueseventsint.com/2020/08/26/in-the-know-diary-management/",
+        "https://www.smart-pa.com/uk/blog/7-diary-management-skills-for-busy-entrepreneurs/",
+        "https://www.orielpartners.co.uk/blog/diary-management-tips-for-pas",
+        "https://timpi.co.uk/blog/what-does-diary-management-actually-mean/",
+        "https://virtalent.com/blog/diary-management-tips/"
     ],
-    "74546": [
-        "video_files/coursebox ai.mp4"
+    "4867": [
+        "https://www.betterteam.com/system-administrator-interview-questions",
+        "https://www.mygreatlearning.com/blog/system-administration-interview-questions/",
+        "https://opensource.com/article/19/7/sysadmin-job-interview-questions",
+        "https://staragile.com/blog/system-administrator-interview-questions",
+        "https://www.sdxcentral.com/industry/career/preparation/top-10-system-administrator-interview-questions/",
+        "https://www.projectpractical.com/top-20-system-administrator-interview-questions-and-answers/",
+        "https://www.skillsbuildtraining.com/system-administrator-interview-questions-and-answers/"
     ],
-    "74576": [
-        "video_files/bandicam 2023-08-15 03-23-21-286.mp4"
+    "4875": [
+        "https://linuxhint.com/centos/",
+        "https://linuxize.com/post/how-to-add-user-to-sudoers-in-centos/",
+        "https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-centos-quickstart",
+        "https://www.cyberciti.biz/faq/add-create-a-sudo-user-on-centos-linux-8/",
+        "https://www.blackdown.org/how-to-add-users-in-sudoers-centos/",
+        "https://devconnected.com/how-to-add-a-user-to-sudoers-on-centos-8/",
+        "https://www.youtube.com/watch?v=Kx4OJB6a6AI"
     ],
-    "74547": [
-        "photos/photo_1658@15-08-2023_15-27-43.jpg"
+    "4884": [
+        "https://www.google.ru/search?q=How+To+Create+a+Sudo+User+on+Ubuntu&newwindow=1&ei=fkPcYcCDA4L1rgTzo47gAQ&ved=0ahUKEwjAuuims6f1AhWCuosKHfORAxwQ4dUDCA4&uact=5&oq=How+To+Create+a+Sudo+User+on+Ubuntu&gs_lcp=Cgdnd3Mtd2l6EAMyBAgAEEMyBQgAEIAEMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIGCAAQFhAeOgcIABBHELADOgQIABANOgYIABANEB46BAgAEB5KBAhBGABKBAhGGABQrwpYlBFgriRoAnACeACAAa8BiAGgBZIBAzAuNJgBAKABAcgBCMABAQ&sclient=gws-wiz",
+        "https://www.youtube.com/watch?v=r8JP7HftoaU",
+        "https://jumpcloud.com/blog/how-to-create-a-new-sudo-user-manage-sudo-access-on-ubuntu-20-04",
+        "https://www.vultr.com/docs/create-a-sudo-user-on-ubuntu-best-practices",
+        "https://docs.rackspace.com/support/how-to/create-a-sudo-user-in-ubuntu/",
+        "https://www.cyberciti.biz/faq/how-to-create-a-sudo-user-on-ubuntu-20-04-lts/",
+        "https://phoenixnap.com/kb/how-to-create-sudo-user-on-ubuntu",
+        "https://linuxize.com/post/how-to-create-a-sudo-user-on-ubuntu/",
+        "https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart",
+        "https://www.digitalocean.com/community/tutorials/how-to-create-a-new-sudo-enabled-user-on-ubuntu-18-04-quickstart-ru"
     ],
-    "74575": [
-        "video_files/bandicam 2023-08-15 03-26-23-813.mp4"
+    "4897": [
+        "https://support.microsoft.com/en-us/windows/find-your-ip-address-in-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9",
+        "https://www.avast.com/c-how-to-find-ip-address",
+        "https://ab57.ru/cmdlist/ipconfig.html#:~:text=ipconfig%20%2Fall%20-%20\u043e\u0442\u043e\u0431\u0440\u0430\u0437\u0438\u0442\u044c%20\u043f\u043e\u0434\u0440\u043e\u0431\u043d\u0443\u044e%20\u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e,\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435%20\u043f\u043e%20\u043b\u043e\u043a\u0430\u043b\u044c\u043d\u043e\u0439%20\u0441\u0435\u0442\u0438%202%22",
+        "https://ru.wikipedia.org/wiki/Ipconfig",
+        "http://cmd4win.ru/administrirovanie-seti/diagnostika-sety/53-ipconfig"
     ],
-    "74548": [
-        "video_files/neolms.mp4"
+    "4905": [
+        "video_files/Create tasks & track time.mp4",
+        "video_files/Timesheet approval by PM.mp4"
     ],
-    "74574": [
-        "video_files/bandicam 2023-08-15 03-42-05-988.mp4"
+    "4908": [
+        "https://rsload.net/soft/manager/8377-ai-roboform.html",
+        "https://chrome.google.com/webstore/detail/roboform-password-manager/pnlccmojcmeohlpggmfnbbiapkmbliob",
+        "https://play.google.com/store/apps/details?id=com.siber.roboform&hl=en",
+        "https://www.youtube.com/watch?v=JwfH7sOxcf8&list=PLKe_tOxlkF2mPX4d5L0wc5SIeV-EC6CNM",
+        "https://www.youtube.com/watch?v=6H668l1Vxjk&list=PLKe_tOxlkF2m6qEtwHPtGtlb2UvoH0B6H",
+        "https://www.roboform.com/manual",
+        "video_files/Roboform Clone and modify account passwords.mp4"
     ],
-    "74549": [
-        "photos/photo_1659@15-08-2023_15-53-13.jpg"
+    "4916": [
+        "https://www.keybr.com/",
+        "https://www.typingtest.com/trainer/",
+        "https://sense-lang.org/typing/tutor/keyboarding.php",
+        "https://www.typingclub.com/",
+        "https://www.speedtypingonline.com/typing-tutor",
+        "https://www.typing.academy/typing-tutor/lessons",
+        "https://learn.dvorak.nl/",
+        "https://www.typingstudy.com/lesson/1",
+        "https://www.google.ru/search?q=online+keyboard+trainer&oq=online+keyboard+&sourceid=chrome&ie=UTF-8"
     ],
-    "74573": [
-        "video_files/bandicam 2023-08-15 03-56-56-142.mp4"
+    "4929": [
+        "\n                        php artisan storage:link\n                    ",
+        "https://github.com/the-control-group/voyager/issues/5216",
+        "https://stackoverflow.com/questions/54062189/trying-to-get-property-type-of-non-object-when-try-to-edit-admin",
+        "https://github.com/the-control-group/voyager/issues/3871",
+        "\n                        php artisan vendor:publish --force\n                    "
     ],
-    "23651": [
-        "video_files/Manually convert run configurations to CMD.mp4"
+    "4937": [
+        "https://voyager-docs.devdojo.com/bread/introduction#validation",
+        "https://voyager-docs.devdojo.com/bread/introduction#action-specific-rules",
+        "https://voyager-docs.devdojo.com/bread/relationships#adding-a-relationship"
     ],
-    "78697": [
-        "\nPath D:\\slivi\\Github\\Platform\\Django\n       "
+    "4942": [
+        "https://stackoverflow.com/questions/41753108/change-voyager-model",
+        "\n                        /* |-------------------------------------------------------------------------- | Models\n                        config |-------------------------------------------------------------------------- |\n                        | Here you can specify default model namespace when creating BREAD. | Must include trailing\n                        backslashes. If not defined the default application | namespace will be used. |\n                        */ 'models' => [  'namespace' => 'App\\\\Models\\\\',\n                        ],\n                    ",
+        "https://stackoverflow.com/questions/66717259/how-to-view-voyager-model-relationship-in-laravel-site",
+        "https://github.com/the-control-group/voyager/issues/2269",
+        "\n                        composer dump-autoload --optimize\n                    "
     ],
-    "78716": [
-        "\nPath D:\\Develop\\IDEApps\\Services\\ALL\\GitHub Codespaces\\Platform\\ALL\n       "
+    "4960": [
+        "https://t.me/thanhkhuatdac",
+        "\n                        Hello, I have the solution,you have first to check updates with this\n                        command:composer updatethen publish the Swagger views with this\n                        command :php artisan swagger-lume:publishand then create a new\n                        folder named swagger-ui-assets in laravel public folder,finaly put wanted css & js files\n                        from {yourproject}/vendor/swagger-api/swagger-ui/dist to {yourproject}/public/swagger-ui-assets.that's\n                        all\n                    ",
+        "https://github.com/DarkaOnLine/L5-Swagger/issues/75",
+        "https://github.com/DarkaOnLine/L5-Swagger/blob/master/src/Http/Controllers/SwaggerAssetController.php",
+        "https://stackoverflow.com/questions/60861777/assets-not-loaded",
+        "\n                        I have fixed that issue by steps:just copied files from vendor folder and added in the\n                        specific path.Copy all the files from :\n                        laravel-yourapp\\vendor\\swagger-api\\swagger-ui\\distThen paste all files in path:\n                        laravel-yourapp\\public\\docs\\asset\n                    ",
+        "video_files/Rec 0169.mp4"
     ],
-    "74571": [
-        "video_files/bandicam 2023-08-15 06-28-36-804.mp4"
+    "4132": [
+        "files/audio_2022-01-16_21-41-13.ogg",
+        "phppackagedevelopment.com",
+        "\n                        Package installing and configurationsPackage usage full scenariosPackage code review\n                    "
     ],
-    "78727": [
-        "files/Pricing _ Backtrace.mhtml"
+    "4969": [
+        "https://laravel.com/docs/8.x/routing",
+        "https://laravel.com/docs/8.x/routing#route-groups",
+        "https://www.javatpoint.com/laravel-route-groups",
+        "https://stackoverflow.com/questions/36412591/laravel-routing-groups",
+        "https://stackoverflow.com/questions/35842786/working-with-laravel-nested-route-group",
+        "https://stackoverflow.com/questions/58215732/laravel-route-group-and-prefix",
+        "https://laracasts.com/discuss/channels/laravel/how-to-apply-a-middleware-on-a-route-group",
+        "\nRoute::group(['middleware' => [can:'accessAdmin']], function () {\n                            Route::resource('posts', 'PostController');});\n"
     ],
-    "78756": [
-        "backtrace.io"
+    "4985": [
+        "video_files/Cleanup all servers using TreeSize.mp4",
+        "files/6_23.zip",
+        "https://www.jam-software.com/treesize_free",
+        "https://ru.wikipedia.org/wiki/TreeSize"
     ],
-    "78869": [
-        "backtrace.io"
+    "4990": [
+        "https://stackoverflow.com/questions/58454148/auth-guard-api-is-not-defined",
+        "\n                        0I had the same issue, it seems that i forgot to change Authentication Defaults so in\n                        config/auth.php change this  'defaults' => [ 'guard'\n                        => 'web', .... ],into this 'defaults'\n                        => [ 'guard' => 'api', .... ],\n",
+        "https://laravel.com/docs/master/middleware#middleware-parameters",
+        "https://stackoverflow.com/questions/43642816/auth-guard-admin-is-not-defined/43645931",
+        "https://pretagteam.com/question/auth-guard-driver-api-is-not-defined",
+        "\n                        return [ 'defaults' => [ 'guard' => 'api',\n                        ], 'guards' => [ 'api' => [ 'driver' =>\n                        'jwt', 'provider' => 'users' ] ], 'providers'\n                        => [ 'users' => [ 'driver' => 'eloquent',\n                        'model' => App\\ Models\\ Admin\\ UserModel::class ] ], 'passwords'\n                        => [ ]];\n                    ",
+        "https://stackoverflow.com/questions/36490169/how-to-use-two-laravel-default-guard",
+        "\n                        'defaults' => [ 'guard' => 'web_users', 'passwords'\n                        => 'users',],'guards' => [ 'web_users' =>\n                        [ 'driver' => 'session', 'provider' => 'users',\n                        ], 'web_admins' => [ 'driver' => 'session',\n                        'provider' => 'admins', ], 'api' => [ 'driver'\n                        => 'token', 'provider' => 'users', ],],'providers'\n                        => [ 'users' => [ 'driver' => 'eloquent',\n                        'model' => App\\User::class, ], 'admins' => [ 'driver'\n                        => 'eloquent', 'model' => App\\Admin::class, ],],\n                    ",
+        "https://laracasts.com/discuss/channels/lumen/method-attempt-does-not-exist-or-auth-guard-driver-api-is-not-defined",
+        "https://laracasts.com/discuss/channels/laravel/problem-setting-default-guard-along-with-jwt",
+        "\n                        'api' => [ 'driver' => 'passport', 'provider'\n                        => 'users',],\n                    "
     ],
-    "78926": [
-        "bugsee.com"
+    "5002": [
+        "https://www.google.com/search?sourceid=chrome&ie=UTF-8&q=No%20query%20results%20for%20model%20%5BLaravel%5C%5CPassport%5C%5CClient%5D",
+        "https://stackoverflow.com/questions/30585912/no-query-results-for-model-app-products-laravel",
+        "https://stackoverflow.com/questions/52471960/why-i-am-getting-no-query-results-for-model-in-laravel/52472024",
+        "https://laracasts.com/discuss/channels/laravel/no-query-results-for-model-appproducts-laravel",
+        "https://laracasts.com/discuss/channels/laravel/how-to-fix-no-query-results-for-model-appuser-settingedit-in-laravel-56",
+        "https://laravel-news.com/404-responses-laravel-api"
     ],
-    "79147": [
-        "bugsee.com"
+    "5009": [
+        "https://www.google.ru/search?q=create+oauth-public.key&oq=create+oauth-public.key&sourceid=chrome&ie=UTF-8",
+        "https://stackoverflow.com/questions/39414956/laravel-passport-key-path-oauth-public-key-does-not-exist-or-is-not-readable/57075696",
+        "\n                        You do not mention your installation steps. Presume you did the following:composer\n                        require laravel/passportRegister the service provider inside config/app.phpLaravel\\Passport\\PassportServiceProvider::class,Run\n                        the migrationsphp artisan migrateLastly generate the keys usingphp\n                        artisan passport:installI see you are trying it on Windows. I saw an OpenSSL\n                        problem on Windows, might help you.\n                    ",
+        "\nphp artisan passport:install\n",
+        "\n                        This is because you didn't generate Oauth keys using passport\n                        keys.Runphp artisan passport:keysAfter that run the\n                        following command to generate a personal access clientphp artisan\n                        passport:client --personalEnter the details it asks you. Then you are done.\n                    ",
+        "https://laracasts.com/discuss/channels/laravel/heroku-error-oauth-publickey-doest-not-exist-or-is-not-readable",
+        "https://laravel.com/docs/master/passport",
+        "https://newbedev.com/laravel-passport-key-path-oauth-public-key-does-not-exist-or-is-not-readable",
+        "https://github.com/laravel/passport/issues/418",
+        "\n                        'api' => [ 'driver' => 'passport', 'provider'\n                        => 'users',],\n                    "
     ],
-    "79163": [
-        "honeybadger.io"
+    "5018": [
+        "https://swagger.io/docs/specification/authentication/bearer-authentication/",
+        "https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication"
     ],
-    "79229": [
-        "honeybadger.io"
+    "5025": [
+        "https://swagger.io/docs/specification/authentication/bearer-authentication/",
+        "\n                        To answer your above question it is quite fundamental to understand laravel's basic\n                        authentication system and how middleware works.In short auth is a middleware\n                        that is first defined in App\\Http\\Kernel and then api is the guard passed to the middleware. The\n                        api configuration can be found in config/auth.phpapi is the middleware used for\n                        all api routes, this means those routes can't be accessed by using the in a url barIn\n                        your CaseRoute::group(['middleware' => ['auth:api']], function(){\n                        Route::post('getList','SomeController@someAction')->name('logout');\n                        });Means that you are loading authentication for API. Which means you will be\n                        authenticating your users based on token rather than user session. This way you will not be able\n                        to access sites using link url on your browser. So, firstly you defined you want to use\n                        authentication \"auth\" and then you declared that you want to use api guard on auth.\n                        API guard for auth is defined in config/auth.phpNext thingRoute::group(['middleware'\n                        => ['auth','api']], function(){ Route::post('getList','SomeController@someAction')->name('logout');\n                        });On the above question you are grouping the middlewares based on their name you\n                        mentioned on HTTP/Kernel.php['middleware' => ['auth','api']This\n                        means that all your routes pass through middleware called auth and api.So you probably\n                        have this in your HTTP/Kernal.php protected $middlewareGroups = [ 'web' =>\n                        [ \\App\\Http\\Middleware\\EncryptCookies::class,\n                        \\Illuminate\\Cookie\\Middleware\\AddQueuedCookiesToResponse::class,\n                        \\Illuminate\\Session\\Middleware\\StartSession::class,\n                        \\Illuminate\\Session\\Middleware\\AuthenticateSession::class,\n                        \\Illuminate\\View\\Middleware\\ShareErrorsFromSession::class,\n                        \\App\\Http\\Middleware\\VerifyCsrfToken::class, ], 'api' => [ 'throttle:60,1',\n                        'bindings', ],];/** * The application's route middleware.\n                        * * These middleware may be assigned to groups or used individually. * * @var\n                        array */protected $routeMiddleware = [ 'auth' =>\n                        \\Illuminate\\Auth\\Middleware\\Authenticate::class, 'bindings' =>\n                        \\Illuminate\\Routing\\Middleware\\SubstituteBindings::class, 'can' =>\n                        \\Illuminate\\Auth\\Middleware\\Authorize::class, 'guest' =>\n                        \\App\\Http\\Middleware\\RedirectIfAuthenticated::class, 'throttle' =>\n                        \\Illuminate\\Routing\\Middleware\\ThrottleRequests::class,];\n                    ",
+        "https://stackoverflow.com/questions/52570142/laravel-api-with-bearer-token-middleware-authapi",
+        "https://stackoverflow.com/questions/42481573/how-to-authenticate-user-without-authapi-middleware-in-laravel-5-3",
+        "https://stackoverflow.com/questions/52570142/laravel-api-with-bearer-token-middleware-authapi"
     ],
-    "79247": [
-        "larabug.com"
+    "5035": [
+        "video_files/Import Swagger to Postman.mp4",
+        "https://coderoad.ru/39072216/\u041a\u0430\u043a-\u0438\u043c\u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c-Swagger-APIs-\u0432-Postman",
+        "https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/",
+        "https://medium.com/c-sharp-progarmming/convert-swagger-documentation-to-postman-collection-d67fc95c7b14",
+        "https://stackoverflow.com/questions/39072216/how-to-import-swagger-apis-into-postman",
+        "https://www.c-sharpcorner.com/article/import-swagger-apis-into-postman-collection/",
+        "https://stackoverflow.com/questions/53142356/when-i-import-swagger-api-to-postman-all-request-names-end-up-blank-in-postman"
     ],
-    "79276": [
-        "shakebug.com"
+    "5044": [
+        "https://www.google.ru/search?q=unknown+column+%27api_token%27+in+%27where+clause%27+laravel+passport&oq=unknown+column+%27api_token%27+in+%27where+clause%27+&sourceid=chrome&ie=UTF-8",
+        "https://stackoverflow.com/questions/58644716/laravel-and-passport-getting-sqlstate42s22-column-not-found-1054-unknown-col",
+        "\n                        27I have faced the same problem. And I am using Laravel Passport. It all about\n                        configuration. got to config/auth.php and change driver name of api array to passport within the\n                        guards array'guards' => [ 'web' => [ 'driver'\n                        => 'session', 'provider' => 'users',\n                        ], 'api' => [ 'driver' => 'passport',//instead\n                        of token  'provider' => 'users', 'hash' =>\n                        false, ],],\n                    ",
+        "https://stackoverflow.com/questions/61141197/laravel-sanctum-column-not-found-1054-unknown-column-api-token-in-where-cl",
+        "\n                        'api' => [ 'driver' => 'sanctum', 'provider'\n                        => 'users', 'hash' => false, ],\n                    ",
+        "",
+        "https://github.com/ramseyjiang/laravel_8_api",
+        "https://stackoverflow.com/questions/49298109/laravel-authapi-returns-sqlstate42s22-column-not-found-1054-unknown-column",
+        "https://laracasts.com/discuss/channels/laravel/auth-problem-with-passport",
+        "https://pretagteam.com/question/laravel-sanctum-column-not-found-1054-unknown-column-apitoken-in-where-clause"
     ],
-    "79404": [
-        "shakebug.com"
+    "5055": [
+        "https://laravel.com/docs/8.x/sanctum",
+        "https://laravel.su/docs/8.x/sanctum",
+        "https://github.com/laravel/sanctum",
+        "https://www.youtube.com/watch?v=MT-GJQIY3EU",
+        "https://www.section.io/engineering-education/laravel-sanctum-api-auth/",
+        "https://www.twilio.com/blog/build-restful-api-php-laravel-sanctum",
+        "https://medium.com/swlh/api-authentication-using-laravel-sanctum-laravel-8-19ed8b4f124c",
+        "https://laravel.demiart.ru/authentication-with-laravel-airlock/",
+        "https://www.google.ru/search?q=Laravel+Sanctum&oq=Laravel+Sanctum&sourceid=chrome&ie=UTF-8",
+        "https://codelapan.com/post/how-to-create-a-crud-rest-api-in-laravel-8-with-sanctum"
     ],
-    "79450": [
-        "shakebug.com"
+    "5065": [
+        "https://www.google.ru/search?q=route+login+not+defined+passport&oq=Route+%5Blogin%5D+not+defined+&sourceid=chrome&ie=UTF-8",
+        "https://stackoverflow.com/questions/49294253/laravel-passport-route-login-not-defined",
+        "https://laracasts.com/discuss/channels/laravel/laravel-passport-invalidargumentexception-route-login-not-defined-when-bearertoken-not-supplied",
+        "https://flutterq.com/solved-laravel-passport-route-login-not-defined/",
+        "\n                        Solution 1You also have to add another header Key: Accept and\n                        value: application/json\n",
+        "photos/photo_66@12-01-2022_17-04-57.jpg",
+        "video_files/Rec 0170.mp4"
     ],
-    "79497": [
-        "instabug.com"
+    "3485": [
+        "video_files/How to work with Word file, provided by customer.mp4",
+        "video_files/Upload Call Record files to Project directory.mp4",
+        "video_files/Work with comments and remarks via Google sheet.mp4",
+        "video_files/How to manage projects via Google Sheet.mp4",
+        "video_files/Create TaskList & comparisons for EyTaxi application.mp4"
     ],
-    "79532": [
-        "instabug.com"
+    "3055": [
+        "video_files/Rec 0172.mp4",
+        "\n                        # 1. Require this Package in your fresh Laravel/Voyager projectcomposer require\n                        joy/voyager-api-auth# 2. Publishphp artisan vendor:publish\n                        --provider=\"Joy\\VoyagerApiAuth\\VoyagerApiAuthServiceProvider\" --force#\n                        3. Test Api with CURLcurl -s 'http://localhost/api/login' -H 'Accept:\n                        application/json' -H 'Content-Type: application/json' --data-raw $'{\\n\n                        \"email\": \"admin@admin.com\",\\n \"password\": \"password\",\\n\n                        \"remember_me\": false\\n}'\n",
+        "https://joy-voyager-api.herokuapp.com/api/documentation"
+    ],
+    "5081": [
+        "https://laracasts.com/discuss/channels/laravel/resource-controllers-what-is-the-difference-between-create-and-store",
+        "\n                        The create method should return a view with a form.The\n                        store method should handle the form and create the entity and redirect.The\n                        edit method should return a view with a form with data from the entity.The\n                        update method should handle the form and update the entity and redirect.\n                    ",
+        "https://stackoverflow.com/questions/26958137/laravel-difference-between-resource-create-and-resource-store",
+        "https://laravel.com/docs/master/controllers",
+        "https://coderoad.ru/26958137/Laravel-\u0440\u0430\u0437\u043d\u0438\u0446\u0430-\u043c\u0435\u0436\u0434\u0443-resource-create-\u0438-resource-store",
+        "https://stackoverflow.com/questions/52405820/laravel-resource-api-curl-store-delete-dont-work"
+    ],
+    "3051": [
+        "files/20220112192737.nb3",
+        "http://soft.teampro.uz/api/documentation",
+        "https://github.com/rxcod9/joy-voyager-api/issues",
+        "https://joy-voyager-api.herokuapp.com/api/documentation",
+        "\n                        # 1. Require this Package in your fresh Laravel/Voyager projectcomposer require\n                        joy/voyager-api# 2. Publishphp artisan vendor:publish --provider=\"Joy\\VoyagerApi\\VoyagerApiServiceProvider\"\n                        --force# 3. Generate Swagger Docs Jsonphp artisan\n                        joy-voyager-api:l5-swagger:generate\n",
+        "\nphp artisan passport:install\n",
+        "https://packagist.org/packages/joy/voyager-api-auth",
+        "\n                        # 1. Require this Package in your fresh Laravel/Voyager projectcomposer require\n                        joy/voyager-api-auth# 2. Publishphp artisan vendor:publish\n                        --provider=\"Joy\\VoyagerApiAuth\\VoyagerApiAuthServiceProvider\" --force#\n                        3. Test Api with CURLcurl -s 'http://localhost/api/login' -H 'Accept:\n                        application/json' -H 'Content-Type: application/json' --data-raw $'{\\n\n                        \"email\": \"admin@admin.com\",\\n \"password\": \"password\",\\n\n                        \"remember_me\": false\\n}'\n",
+        "video_files/Using Bearer Auth headers.mp4",
+        "files/20220112192737.sql",
+        "files/6 - Project.zip",
+        "https://swagger.io/docs/specification/authentication/bearer-authentication/"
+    ],
+    "5102": [
+        "https://github.com/the-control-group/voyager/issues/1575",
+        "\n                        Well, you will have to either call you table articles or setting you model Article to\n                        have:protected $table = 'article';This is because the\n                        table names by default are gonna be the plural mode of the model name.\n                    ",
+        "https://github.com/the-control-group/voyager/issues/3665",
+        "https://stackoverflow.com/questions/46577878/laravel-sqlstate42s02-base-table-or-view-not-found-1146-table",
+        "https://laracasts.com/discuss/channels/laravel/sqlstate42s02-base-table-or-view-not-found-after-renaming-a-table",
+        "video_files/Rec 0174.mp4"
+    ],
+    "5115": [
+        "https://laravel.com/docs/8.x/eloquent",
+        "https://www.quora.com/Why-do-we-use-fillable-in-laravel",
+        "\n                        If you are new to Laravel you will definitely come across two properties in the model one is\n                        Fillable. I myself did not get the use of these properties but once I get along I understood the\n                        actual use of these properties. These properties can be set at the class or instance\n                        level.#) Fillable Property:- This property specifies which attributes in the\n                        table should be *mass-assignable.protected $fillable = ['first_name',\n                        'last_name', 'email']; For example let's say you have a user model\n                        with:protected $hidden = array('password'); protected $fillable =\n                        ['username', 'email']; And for your registration logic you\n                        have something like:$user = new User([ 'username' => Input::get('username'),\n                        'email' => Input::get('email'), ]);  $user->password =\n                        Hash::make(Input::get('password')); Thank You..!!!\n                    ",
+        "https://laraveldaily.com/dont-forget-the-fillables/",
+        "\n                        The full situation \u2013 you\u2019ve added a field into a database, made and run a migration for that,\n                        and then just add it to the form. Of course, Laravel should take care of it with\n                        Model::create($request->all()), right? But sometimes it doesn\u2019t. Because you forget to add a\n                        new field to the $fillable array.In the Eloquent models there\u2019s an array which\n                        defines what fields are automatically filled with create() method:protected $fillable =\n                        ['first_name', 'last_name', 'email'];So, for\n                        example, if you add a new field address to this table, please don\u2019t forget to add it to\n                        $fillable array \u2013 otherwise it won\u2019t be saved. The worst part is that Laravel won\u2019t throw any\n                        error \u2013 it would just save the row without that column value.As I said \u2013 just a quick\n                        tip. Hope that helps!\n                    ",
+        "https://laracasts.com/discuss/channels/general-discussion/fillable-when-array",
+        "https://stackoverflow.com/questions/48870417/can-i-add-more-data-to-the-fillable-array-in-a-laravel-model",
+        "https://www.edureka.co/community/65492/describe-fillable-attribute-in-a-laravel-model"
+    ],
+    "3404": [
+        "files/7.zip",
+        "https://laravel.com/docs/8.x/controllers#resource-controllers+",
+        "https://www.itsolutionstuff.com/post/laravel-8-rest-api-with-passport-authentication-tutorialexample.html",
+        "https://github.com/savanihd/Laravel-8-Rest-API-with-Passport",
+        "https://www.positronx.io/build-secure-php-rest-api-in-laravel-with-sanctum-auth/",
+        "https://stackoverflow.com/questions/47459797/laravel-passport-automatically-create-token-when-a-user-is-created/47460027",
+        "https://laravel.com/docs/8.x/passport",
+        "https://stackoverflow.com/questions/47459797/laravel-passport-automatically-create-token-when-a-user-is-created/47460027",
+        "https://www.toptal.com/laravel/passport-tutorial-auth-user-access",
+        "files/20220112205334.nb3",
+        "files/20220112205334.sql"
+    ],
+    "5126": [
+        "https://github.com/rxcod9/joy-voyager-datatable-laravel-demo",
+        "https://github.com/rxcod9/joy-voyager-datatable",
+        "https://joy-voyager-datatable.herokuapp.com/admin/users/datatable",
+        "https://joy-voyager-datatable.herokuapp.com/admin/roles",
+        "https://joy-voyager-datatable.herokuapp.com/",
+        "https://joy-voyager-datatable.herokuapp.com/admin"
+    ],
+    "5141": [
+        "https://www.youtube.com/watch?v=trW0gihZ78E&list=PL_WK6W0Gn1I4jcUIwAUkcLM76k08Bqi2K&index=1&t=140s",
+        "video_files/How to install docker and docker-compose on CentOS Linux.mp4",
+        "video_files/docker-compose install in Ubuntu.mp4",
+        "video_files/docker-compose install in Windows.mp4"
+    ],
+    "5144": [
+        "https://medium.com/laraveladvanced/using-docker-for-laravel-development-and-production-df6398d5c93",
+        "https://medium.com/laraveladvanced/using-docker-for-laravel-development-and-production-df6398d5c93",
+        "https://help.clouding.io/hc/en-us/articles/360010679999-How-to-Deploy-Laravel-with-Docker-on-Ubuntu-18-04",
+        "https://www.cloudsigma.com/deploying-laravel-nginx-and-mysql-with-docker-compose/",
+        "video_files/Publish Laravel project with Docker.mp4",
+        "files/docker.zip",
+        "files/docker2.zip",
+        "files/oyina.zip",
+        "https://www.google.ru/search?q=Deploy+Laravel+project+using+Docker&oq=Deploy+Laravel+project+using+Docker&sourceid=chrome&ie=UTF-8"
+    ],
+    "5163": [
+        "https://habr.com/ru/company/vk/blog/115163/",
+        "https://www.youtube.com/watch?v=jIckLu1cKew&t=1555s",
+        "https://www.youtube.com/watch?v=ad4x_s5DrKk",
+        "video_files/Telegram Provider for Socialite.mp4",
+        "video_files/Google auth & Facebook auth bug fix.mp4",
+        "video_files/GET FACEBOOK CLIENT ID AND SECRET.mp4",
+        "video_files/Github Oauth2 Integration.mp4",
+        "video_files/GET GITHUB CLIENT ID AND SECRET.mp4",
+        "video_files/GET GOOGLE CLIENT ID AND SECRET.mp4",
+        "files/GET Instagram CLIENT ID AND SECRET.avi",
+        "video_files/GET YANDEX CLIENT ID AND SECRET.mp4",
+        "video_files/GET YANDEX CLIENT ID AND SECRET #2.mp4"
+    ],
+    "5178": [
+        "https://www.youtube.com/watch?v=cbFYqwzxGwY&list=PL_UnIDIwT95NureFNedKN9_GA6UOiS2ox&index=1",
+        "https://www.youtube.com/watch?v=G5UmX9aRXV4&list=PL8nVHL94VZ1_uW6pm0pCZbiN2H8oG9W0b&index=1",
+        "video_files/Video_for_creating_a_table,migrations,bread_And_output_to_blade.mp4",
+        "https://voyager-docs.devdojo.com/core-concepts/routing",
+        "https://bestofphp.com/repo/the-control-group-voyager-php-web-applications",
+        "https://www.codementor.io/@connorleech/build-a-fullstack-admin-app-with-voyager-in-5-minutes-9x81ifvzb",
+        "https://github.com/rxcod9/joy-voyager-api-laravel-demo",
+        "https://github.com/rxcod9/joy-voyager-datatable-laravel-demo",
+        "https://voyager-docs.devdojo.com/customization/overriding-files",
+        "https://voyager-docs.devdojo.com/troubleshooting/using-https"
+    ],
+    "5190": [
+        "https://www.shellhacks.com/how-to-grant-root-access-user-root-privileges-linux/"
+    ],
+    "5193": [
+        "photos/photo_70@16-01-2022_22-58-10.jpg",
+        "video_files/Knowledge contribution tips for Key developers, #2.mp4"
+    ],
+    "5199": [
+        "https://tailwindcss.com/blog/tailwindcss-v3",
+        "https://tailwindcss.com/docs/upgrade-guide",
+        "https://larainfo.com/blogs/3-interesting-new-features-added-in-tailwind-css-3",
+        "https://dev.to/thomasvanholder/how-to-upgrade-tailwind-2-to-tailwind-3-2a3c",
+        "https://www.themes.dev/blog/tailwind-css-version-3/",
+        "https://larainfo.com/blogs/3-interesting-new-features-added-in-tailwind-css-3",
+        "https://news.ycombinator.com/item?id=29501110"
+    ],
+    "5202": [
+        "https://tailwindcss.com/docs/installation/play-cdn",
+        "https://tailwindcss.com/docs/installation",
+        "https://tailwindcss.com/docs/guides/laravel",
+        "https://tailwindcss.com/docs/guides/nextjs",
+        "https://ninjadevel.com/installing-and-using-tailwind-css-3-0/#video",
+        "https://github.com/tailwindlabs/tailwindcss/discussions/5668",
+        "https://larainfo.com/blogs/how-to-install-setup-tailwind-css-v3"
+    ],
+    "5209": [
+        "https://cdnout.com/cdn/tailwindcss@2.0.3/",
+        "https://www.jsdelivr.com/package/npm/tailwindcss?version=2.2.19",
+        "https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.css",
+        "https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css",
+        "photos/photo_67@13-01-2022_18-27-07.jpg",
+        "https://v2.tailwindcss.com/",
+        "https://v2.tailwindcss.com/docs/installation",
+        "https://v2.tailwindcss.com/docs/installation#using-tailwind-via-cdn"
+    ],
+    "5222": [
+        "https://tailwindui.com/",
+        "https://tailwindui.com/components/marketing/sections/feature-sections",
+        "https://play.tailwindcss.com/",
+        "https://tailwindcss.com/docs/upgrade-guide"
+    ],
+    "5229": [
+        "https://three29.com/how-to-use-tailwindcss-inside-your-laravel-applications/",
+        "https://justlaravel.com/how-to-use-tailwind-css-laravel/#installTailwind",
+        "https://v2.tailwindcss.com/docs/guides/laravel"
+    ],
+    "5233": [
+        "https://rsload.net/soft/manager/page,1,84,8294-internet-download-manager.html",
+        "files/IDM-04.reg",
+        "https://rutracker.org/forum/tracker.php?nm=internet%20download%20manager",
+        "https://www.internetdownloadmanager.com/",
+        "https://rsload.net/repack/kpojiuk/23497-internet-download-manager-repack-kpojiuk.html",
+        "files/Internet.Download.Manager.v6.40.2-RSLOAD.NET-.rar"
+    ],
+    "5240": [
+        "video_files/Laravel Playmobile Package Introduction.mp4"
+    ],
+    "5248": [
+        "https://www.youtube.com/watch?v=tXjoya11RAg",
+        "https://medium.com/better-practices/design-apis-like-you-design-user-experience-a7adeb2ee90f",
+        "https://www.postman.com/",
+        "https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/#creating-mock-servers",
+        "https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/setting-up-mock/#configuring-mock-details",
+        "https://learning.postman.com/docs/designing-and-developing-your-api/the-api-workflow/",
+        "https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/mocking-with-examples/",
+        "https://learning.postman.com/docs/designing-and-developing-your-api/mocking-data/mock-with-api/",
+        "https://mockoon.com/",
+        "https://mockoon.com/#download",
+        "https://mockoon.com/features/",
+        "https://mockoon.com/docs/latest/about/",
+        "https://www.smockin.com/",
+        "https://github.com/matthewgallina/smockin"
+    ],
+    "5264": [
+        "\n                        php artisan cache:clear\n                    ",
+        "\n                        php artisan optimize:clear\n                    ",
+        "\n                        php artisan config:clear\n                    ",
+        "\n                        php artisan optimize\n                    ",
+        "\n                        php artisan view:clear\n                    ",
+        "\n                        php artisan clear-compiled\n                    "
+    ],
+    "5283": [
+        "https://github.com/wemersonrv/input-mask",
+        "https://github.com/RobinHerbots/Inputmask",
+        "https://robinherbots.github.io/Inputmask/",
+        "https://classic.yarnpkg.com/en/package/jquery.inputmask",
+        "https://unmanner.github.io/imaskjs/",
+        "https://github.com/uNmAnNeR/imaskjs",
+        "https://imask.js.org/",
+        "https://laracasts.com/discuss/channels/livewire/livewire-mask-input",
+        "https://stackoverflow.com/questions/31220720/how-to-clear-jasny-input-mask-before-using-in-laravel-validator",
+        "https://laravel.ru/forum/viewtopic.php?id=2471",
+        "https://www.nicesnippets.com/blog/how-to-add-input-mask-using-jquery-in-laravel-8",
+        "https://www.google.ru/search?q=mask+input+laravel&oq=masket+input+larave&sourceid=chrome&ie=UTF-8"
+    ],
+    "5298": [
+        "photos/photo_68@16-01-2022_11-56-08.jpg"
+    ],
+    "5302": [
+        "\n                        \ud83d\udcaa\n                    "
+    ],
+    "5306": [
+        "https://github.com/teamprodev/laravel_one_auth"
+    ],
+    "5312": [
+        "files/TrueNAS-12.0-U7.iso"
+    ],
+    "5322": [
+        "https://www.highspeedinternet.com/resources/ethernet-vs-wifi",
+        "files/image_2022-01-17_15-33-50.png",
+        "files/image_2022-01-17_15-34-48.png",
+        "\n                        If your laptop doesn't support Ethernet RJ-45, you can buy appropriate adapter, which costs\n                        50k UZS.\n                    "
+    ],
+    "5326": [
+        "https://ru.wikipedia.org/wiki/OKR",
+        "https://blog.weekdone.com/what-companies-use-okrs/",
+        "https://sugarokr.com/blog/how-to-implement-okrs-in-your-company-the-right-way/",
+        "https://www.holaspirit.com/blog/how-to-implement-okrs-into-your-organization-and-how-to-use-them",
+        "https://sugarokr.com/blog/how-to-implement-okrs-in-your-company-the-right-way/",
+        "https://blog.weekdone.com/what-companies-use-okrs/",
+        "https://www.quora.com/Other-than-Google-what-companies-uses-OKR",
+        "https://www.quora.com/Do-any-industries-outside-technology-use-OKRs-for-performance-management",
+        "https://www.quora.com/How-can-an-outsourcing-IT-company-implement-OKRs",
+        "https://www.quora.com/At-what-size-of-company-does-it-make-sense-to-set-up-Objectives-and-Key-Results-OKRs"
+    ],
+    "5341": [
+        "https://www.youtube.com/watch?v=9qUvcMf_QT4",
+        "photos/photo_72@18-01-2022_12-05-02.jpg",
+        "https://www.youtube.com/watch?v=V8CzYrZwjCk",
+        "https://www.youtube.com/watch?v=epcAnJEDu2Y",
+        "https://eu.community.samsung.com/t5/galaxy-s20-series/what-is-other-in-storage/td-p/3340172",
+        "https://nerdschalk.com/how-to-free-up-storage-on-android/",
+        "https://nerdschalk.com/google-files-go-helps-increase-existing-storage/",
+        "https://www.youtube.com/watch?v=epcAnJEDu2Y",
+        "photos/photo_73@18-01-2022_12-08-06.jpg",
+        "photos/photo_74@18-01-2022_12-08-46.jpg",
+        "photos/photo_75@18-01-2022_12-08-46.jpg",
+        "photos/photo_76@18-01-2022_12-08-46.jpg",
+        "photos/photo_77@18-01-2022_12-08-46.jpg",
+        "https://www.t-mobile.com/support/devices/android/samsung-galaxy-j7/internal-storage-rom-samsung-galaxy-j7",
+        "https://play.google.com/store/apps/details?id=com.mobile_infographics_tools.mydrive&hl=en_US&gl=US",
+        "https://fixwill.com/what-is-other-in-storage-android/"
+    ],
+    "5358": [
+        "https://www.arubacloud.com/tutorial/how-to-configure-ssh-access-via-publick-key-centos-8.aspx"
+    ],
+    "5367": [
+        "https://upcloud.com/community/tutorials/install-wordpress-lemp-centos-8/"
+    ],
+    "5374": [
+        "https://docs.gitlab.com/ee/user/project/merge_requests/",
+        "https://docs.gitlab.com/ee/api/merge_requests.html",
+        "https://docs.gitlab.com/ee/development/contributing/merge_request_workflow.html",
+        "https://docs.gitlab.com/ee/ci/pipelines/merge_request_pipelines.html",
+        "https://docs.gitlab.com/ee/user/project/merge_requests/",
+        "https://www.tutorialspoint.com/gitlab/gitlab_merge_requests.htm",
+        "https://www.youtube.com/watch?v=Ddd3dbl4-2w",
+        "https://www.youtube.com/watch?v=A12mtqGzSgI",
+        "https://docs.gitlab.com/ee/api/merge_requests.html",
+        "https://www.google.ru/search?q=merge+requests+in+gitlab&oq=merge+requests&sourceid=chrome&ie=UTF-8"
+    ],
+    "5385": [
+        "https://www.biotime.ru/advantages/mobilnye-resheniya.php",
+        "https://play.google.com/store/apps/details?id=cloud.biotime",
+        "https://www.youtube.com/watch?v=qJCA3HIGTKc",
+        "https://www.youtube.com/watch?v=uizOlWexgPA&list=PLPHriJtqqFFfuLD8K4fr7a0qc49mpfKPj",
+        "https://www.youtube.com/watch?v=WYaEZyY9lU8&feature=emb_title"
+    ],
+    "5394": [
+        "https://www.google.ru/search?q=zend+optimizer+install+centos+7&newwindow=1&ei=KPrnYZeKKeGXxc8PscyquAI&oq=zend+optimizer+install+centos&gs_lcp=Cgdnd3Mtd2l6EAMYADIICAAQFhAKEB46BwgAEEcQsAM6DQguEMcBENEDELADEEM6BwgAELADEEM6BQgAEIAEOgYIABAWEB46CAghEBYQHRAeOgUIIRCgAToHCCEQChCgAUoECEEYAEoECEYYAFDQAljoOGD9OWgCcAJ4AIABwgGIAe8UkgEEMC4xOJgBAKABAcgBCsABAQ&sclient=gws-wiz",
+        "https://syslint.com/blog/tutorial/how-to-install-zend-optimizer-in-centos-7/",
+        "http://hostciti.net/support/administratoram/php/141.html",
+        "https://firstvds.ru/technology/ustanovka-zend-guard-loader-na-centos-debian",
+        "https://linux-notes.org/ustanovka-zend-optimizer-zend-guard-na-unix-linux/",
+        "https://hostline.ru/ustanovka-zend-optimizer.html",
+        "https://www.howtoforge.com/installation-of-zendoptimizer-and-ioncubeloader-using-lighttpd-on-centos",
+        "https://ru.wikipedia.org/wiki/Zend_Technologies",
+        "https://www.zend.com/downloads",
+        "https://www.zend.com/downloads",
+        "http://hostciti.net/support/administratoram/php/141.html",
+        "http://hostciti.net/support/administratoram/php/141.html"
+    ],
+    "5407": [
+        "https://www.php.net/manual/en/ini.core.php#ini.exit-on-timeout",
+        "https://www.php.net/manual/en/ini.php",
+        "https://www.php.net/manual/en/ini.sections.php",
+        "https://www.php.net/manual/en/ini.list.php",
+        "https://getcomposer.org/doc/articles/troubleshooting.md",
+        "files/config.zip",
+        "files/php.ini"
+    ],
+    "5416": [
+        "https://www.if-not-true-then-false.com/2011/nginx-and-php-fpm-configuration-and-optimizing-tips-and-tricks/",
+        "https://github.com/perusio/php-fpm-example-config",
+        "files/php-fpm-example-config.zip",
+        "https://www.if-not-true-then-false.com/2011/nginx-and-php-fpm-configuration-and-optimizing-tips-and-tricks/"
+    ],
+    "5421": [
+        "https://myjeeva.com/php-fpm-configuration-101.html",
+        "files/3.zip",
+        "files/www.conf",
+        "files/_Readme.htm",
+        "files/Readme.txt",
+        "http://www.gubatron.com/blog/2016/09/07/how-to-enable-php-fpm-log-output/"
+    ],
+    "5429": [
+        "https://kubernetes-csi.github.io/docs/",
+        "https://github.com/container-storage-interface/spec",
+        "https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/",
+        "https://githubplus.com/democratic-csi/democratic-csi"
+    ],
+    "5434": [
+        "https://github.com/kubernetes-csi/csi-driver-smb",
+        "https://github.com/alternative-storage/cifs-csi",
+        "https://cloud.google.com/kubernetes-engine/docs/how-to/access-smb-volume",
+        "https://cloud.redhat.com/blog/cifs-and-openshift-using-the-container-storage-interface-1",
+        "https://www.google.ru/search?q=cifs+csi+kubernetes&oq=CSI+cifs&sourceid=chrome&ie=UTF-8",
+        "https://github.com/kubernetes-csi/csi-driver-smb/blob/master/deploy/example/e2e_usage.md",
+        "https://github.com/kubernetes-csi/csi-driver-smb",
+        "https://github.com/alternative-storage/cifs-csi"
+    ],
+    "5443": [
+        "https://play.google.com/store/apps/details?id=com.tianxingjian.screenshot",
+        "\n                        All videos should contain full audio explanation\n                    "
+    ],
+    "5385": [
+        "https://play.google.com/store/apps/details?id=com.ruanmeng.biotime"
+    ],
+    "5454": [
+        "https://github.com/twbs/bootstrap",
+        "https://getbootstrap.com/",
+        "https://getbootstrap.com/docs/5.1/getting-started/introduction/",
+        "https://getbootstrap.com/docs/5.1/examples/",
+        "https://www.youtube.com/watch?v=4sosXZsdy-s",
+        "https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE",
+        "https://www.youtube.com/watch?v=gdqjNTgRmIw&list=PLpDyZ4xZcDg9hjh8mV-eF8b8igzIE8bAC",
+        "https://www.youtube.com/watch?v=4k24rrxwIVk&list=PLpRkv-CMsu3VM9EW0gz_QJ6Nvdg9PL8zr",
+        "https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR",
+        "https://www.youtube.com/watch?v=314m7YBRFvQ&list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V"
+    ],
+    "5480": [
+        "video_files/How_to_Safely_refactor_&_rename_variable_in_PHPStorm,_Show_variable.mp4",
+        "video_files/Perform Namespace refactoring & replacement.mp4",
+        "https://www.jetbrains.com/help/phpstorm/refactoring-source-code.html",
+        "https://blog.jetbrains.com/phpstorm/2021/01/video-refactoring-code-with-phpstorm/",
+        "video_files/Platform-Replace_Text.mp4",
+        "https://www.youtube.com/watch?v=6EMM7HSc_2E",
+        "https://www.jetbrains.com/help/phpstorm/reformat-and-rearrange-code.html",
+        "https://matthewsetter.com/refactoring-code-with-phpstorm/",
+        "video_files/Refactor existing code from If-Else to Switch-Case.mp4"
+    ],
+    "5496": [
+        "https://habr.com/ru/company/otus/blog/576730/",
+        "https://thenewstack.io/postgres-with-kubernetes-self-managed-or-managed-service/",
+        "https://www.enterprisedb.com/blog/postgres-kubernetes-or-vms-guide-framework-running-databases-best-way",
+        "https://www.codemotion.com/magazine/backend-dev/database-as-a-service-postgresql-on-kubernetes/",
+        "https://severalnines.com/database-blog/using-kubernetes-deploy-postgresql",
+        "https://habr.com/ru/company/flant/blog/479438/",
+        "https://habr.com/ru/company/flant/blog/431500/",
+        "https://habr.com/ru/company/raiffeisenbank/blog/539790/",
+        "https://habr.com/ru/company/flant/blog/520616/",
+        "https://habr.com/ru/company/flant/blog/527524/",
+        "https://www.sumologic.com/blog/kubernetes-deploy-postgres/",
+        "https://www.bmc.com/blogs/kubernetes-postgresql/"
+    ],
+    "5510": [
+        "https://medium.com/@areai51/building-microfrontends-with-react-node-part-1-cf88643b9a4c",
+        "https://samnewman.io/books/building_microservices/",
+        "https://medium.com/@areai51/microfrontends-an-approach-to-building-scalable-web-apps-e8678e2acdd6",
+        "https://stackoverflow.com/questions/48694359/create-react-app-for-multiple-apps",
+        "https://stackoverflow.com/questions/58927713/multiple-react-apps-in-a-single-page-and-keep-them-in-sync",
+        "https://redux-dynamic-modules.js.org/#/",
+        "https://stackoverflow.com/questions/58930216/use-one-react-project-within-another",
+        "https://stackoverflow.com/questions/31933359/using-react-in-a-multi-page-app",
+        "https://github.com/miteshtagadiya/microfrontend-react",
+        "https://github.com/eschall/react-micro-frontend",
+        "https://github.com/gandalfTheBlue/micro-frontends-react",
+        "https://github.com/burzaszsolt/react-micro-frontends"
+    ],
+    "5523": [
+        "https://social.technet.microsoft.com/Forums/en-US/315bff06-f6ce-4a79-b0d1-65ca692b8ce8/new-hard-drive-missing-from-primordial-pool?forum=winserverfiles",
+        "https://serverfault.com/questions/526719/no-primordial-storage-pool-in-windows-2012",
+        "https://serverfault.com/questions/tagged/storage-spaces?tab=votes&page=4",
+        "https://rlevchenko.com/2017/12/02/s2d-disks-dont-show-up-in-the-disk-manager/",
+        "http://tekhead.it/blog/2013/05/windows-server-2012-storage-spaces-missing-disks/",
+        "https://serverfault.com/questions/907898/remove-disk-from-primordial-storage-pool"
+    ],
+    "5070": [
+        "video_files/Check, is this feature implemented or not.mp4",
+        "video_files/Create Additional info to BRD and Tasks channels.mp4"
+    ],
+    "5532": [
+        "https://github.com/search?o=desc&q=range+slider&s=stars&type=Repositories",
+        "https://github.com/IonDen/ion.rangeSlider",
+        "https://rangeslider.js.org/",
+        "https://github.com/WorldDownTown/RangeSeekSlider",
+        "https://appetize.io/app/v3pzcncpffgth3qqe1v8a1ktg4",
+        "https://github.com/leongersen/noUiSlider",
+        "https://appetize.io/app/v3pzcncpffgth3qqe1v8a1ktg4?device=iphone8&osVersion=13.7&scale=75",
+        "https://refreshless.com/nouislider/slider-options/",
+        "https://rangeslider.js.org/"
+    ],
+    "5542": [
+        "https://www.google.ru/search?q=laravel+get+variable+in+blade&newwindow=1&ei=W4bqYZLsIcfKrgTNqbXYCw&oq=laravel+get+variakl&gs_lcp=Cgdnd3Mtd2l6EAMYAjIECAAQDTIECAAQDTIECAAQDTIECAAQDTIECAAQDTIGCAAQDRAeMgYIABANEB4yBggAEA0QHjIGCAAQDRAeMgYIABANEB46BwgAEEcQsAM6BwgAELADEEM6BQgAEIAEOgQIABBDOgYIABAWEB5KBAhBGABKBAhGGABQiBNY3zNgs0BoAXACeAGAAakBiAGBCJIBAzAuOJgBAKABAcgBCcABAQ&sclient=gws-wiz",
+        "https://laracasts.com/discuss/channels/laravel/using-request-variable-in-blade-template",
+        "https://laravel.com/docs/8.x/requests",
+        "https://laravel.com/docs/8.x/blade",
+        "https://laracasts.com/discuss/channels/laravel/using-request-variable-in-blade-template"
+    ],
+    "3459": [
+        "\nLocation in the Serverd:\\Develop\\Projects\\execut\\TotalCN\\9_20\\TotalCMD.exe\n                    "
+    ],
+    "5553": [
+        "https://linuxhint.com/install-mysql-on-centos-8/"
+    ],
+    "5556": [
+        "https://www.cyberciti.biz/faq/how-to-install-and-use-nginx-on-centos-8/"
+    ],
+    "5561": [
+        "https://phoenixnap.com/kb/how-to-set-up-nginx-server-blocks-virtual-hosts-centos-7"
+    ],
+    "5563": [
+        "photos/photo_78@22-01-2022_14-29-52.jpg"
+    ],
+    "5569": [
+        "https://www.youtube.com/watch?v=--7ov5zEa0E&list=PLd2_Os8Cj3t8OTGDdiHJdS3gkdoKajpX9",
+        "http://www.intridea.com/blog/2013/11/7/json-web-token-the-useful-little-standard-you-haven-t-heard-about"
+    ],
+    "5573": [
+        "https://www.youtube.com/watch?v=9TJEoYnnEUU&list=PLd2_Os8Cj3t_NscvtE9xd0QATeYy-kNCU"
+    ],
+    "5575": [
+        "https://www.howtoforge.com/how-to-install-django-on-centos-8/"
+    ],
+    "4184": [
+        "https://v2.tailwindcss.com/docs",
+        "https://github.com/aniftyco/awesome-tailwindcss",
+        "https://github.com/search?q=awesome+tailwind",
+        "https://github.com/thenativeweb/tailwind",
+        "https://tailwindcss.com/",
+        "https://tailwindcss.com/docs/examples/buttons",
+        "https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
+        "https://www.youtube.com/watch?v=PyPR5l8tky8&list=PLFHz2csJcgk8lgiRDB7FdsXVr4xy6jE8K",
+        "https://www.youtube.com/watch?v=bxmDnn7lrnk&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw",
+        "https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0",
+        "https://www.youtube.com/watch?v=21HuwjmuS7A&list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR",
+        "https://www.youtube.com/watch?v=PyPR5l8tky8&list=PLFHz2csJcgk8lgiRDB7FdsXVr4xy6jE8K",
+        "https://www.youtube.com/watch?v=dxWb0PopquI&list=PLc1g3vwxhg1X8ogsnF6bTjRPqTfcdrHWJ"
+    ],
+    "5579": [
+        "video_files/Rec 0121.mp4",
+        "video_files/Rec 0129.mp4"
+    ],
+    "5579": [
+        "\n                        ranglar push qivordim!\n                    "
+    ],
+    "5582": [
+        "https://www.jsdelivr.com/",
+        "https://unpkg.com/",
+        "https://www.cdnperf.com/"
+    ],
+    "5586": [
+        "https://gitcdn.link/",
+        "https://raw.githack.com/",
+        "https://statically.io/"
+    ],
+    "5590": [
+        "https://jspm.org/"
+    ],
+    "5592": [
+        "https://laravel.com/docs/8.x/collections#method-merge",
+        "https://www.php.net/manual/en/function.array-merge.php",
+        "https://stackoverflow.com/questions/53332592/how-to-merge-one-array-elements-in-laravel",
+        "https://stackoverflow.com/questions/40020740/merge-two-array-value-in-laravel",
+        "https://www.google.ru/search?q=array+merge+laravel&oq=arr+merge+larve&sourceid=chrome&ie=UTF-8",
+        "https://stackoverflow.com/questions/32387575/how-to-properly-merge-multiple-collections-in-laravel",
+        "https://stackoverflow.com/questions/68333658/laravel-merge-collections-and-sort-by-value",
+        "https://laracasts.com/discuss/channels/laravel/merge-2-collections-into-one"
+    ],
+    "5604": [
+        "https://play.google.com/store/apps/details?id=com.simplescan.scanner",
+        "video_files/Simple Scan Usage.mp4",
+        "video_files/Simple Scan Settings.mp4",
+        "video_files/Advanced Batch Scan.mp4"
+    ],
+    "5609": [
+        "files/fontawesome-pro-5.12.0-web.zip",
+        "https://cdn.la.utexas.edu/fontawesome/fontawesome-pro-5.12.0/",
+        "https://fontawesome.com/v6.0/icons?c=animals&s=solid%2Cbrands",
+        "files/Font_Awesome_Pro_v6_Alpha_2.zip"
+    ],
+    "5615": [
+        "video_files/OSPanel Introduction & First usage.mp4",
+        "video_files/Manage Server stack execution via App-Exit & App-Run.mp4",
+        "video_files/Stop Nginx & Start OpenServer.mp4",
+        "video_files/How to Restart OSPanel via Cmd.mp4",
+        "video_files/TurnOff OpenServer process.mp4",
+        "video_files/Change Project Root directory in OpenServer.mp4"
+    ],
+    "5622": [
+        "https://laravel.com/docs/master/blade",
+        "https://laravel.com/docs/master/blade#including-subviews",
+        "https://laravel.com/docs/master/blade#rendering-components"
+    ],
+    "5629": [
+        "https://www.cloudways.com/blog/laravel-best-practices/",
+        "https://whenprogramming.com/10-laravel-dos-and-don-ts-to-improve-your-development-experience/",
+        "https://cerwyn.medium.com/7-best-practices-in-laravel-you-should-know-2ed9878293de",
+        "https://github.com/alexeymezenin/laravel-best-practices/blob/master/russian.md",
+        "https://github.com/alexeymezenin/laravel-best-practices",
+        "https://aglowiditsolutions.com/blog/laravel-best-practices/",
+        "https://www.innofied.com/top-10-laravel-best-practices/",
+        "https://laracasts.com/series/whip-monstrous-code-into-shape",
+        "https://dev.to/lathindu1/laravel-best-practice-coding-standards-part-01-304l",
+        "https://www.google.ru/search?q=Laravel+Best+Practices&oq=Laravel+Best+Practices&sourceid=chrome&ie=UTF-8"
+    ],
+    "5641": [
+        "https://www.cashify.in/how-to-clear-app-data-and-cache-on-android",
+        "https://www.youtube.com/watch?v=i-mImFx38Fc",
+        "https://www.youtube.com/watch?v=AaoW7iYs2Z8",
+        "https://www.youtube.com/watch?v=_OHIw_68Kjo",
+        "https://www.androidpolice.com/clear-app-cache-data-android/",
+        "https://www.makeuseof.com/tag/clear-cache-android/",
+        "https://www.androidcentral.com/how-and-when-clear-app-cache-or-data-android",
+        "https://www.cashify.in/how-to-clear-app-data-and-cache-on-android",
+        "https://play.google.com/store/apps/details?id=com.piriform.ccleaner&hl=en_US&gl=US",
+        "https://www.makeuseof.com/apps-that-clean-android-device-no-placebos/"
+    ],
+    "5652": [
+        "https://www.youtube.com/watch?v=WK5FobQs-nY",
+        "https://www.the-tech-addict.com/how-to-clear-cache-on-iphone/",
+        "https://www.tomsguide.com/how-to/how-to-clear-cache-on-iphone",
+        "https://gadgets.ndtv.com/mobiles/features/how-to-clear-cache-in-iphone-safari-1888931"
     ]
 }
