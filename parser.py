@@ -10,6 +10,7 @@ def get_info(html):
     messages_2 = page_body.find_all('div', class_='message default clearfix joined')
     dict_learning_id = {}
     dict_learning_content = {}
+    dict_all = {}
     for i in messages_1:
         message_details = i.get('id').split('message')  # message_details
         msg_id = ''.join(i.get('id').split('message'))  # message_id
@@ -95,4 +96,3 @@ def get_info(html):
 main_html = get_html(fname)
 result = get_info(main_html)
 save_json(result)
-#save_db(result)

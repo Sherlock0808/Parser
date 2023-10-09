@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import json
 import sqlite3
+import mysql.connector
 
 
 def get_html(file_path):
@@ -40,6 +41,34 @@ def save_db(list):
             database.commit()
             database.close()
 
+
+
+def save_mysql(list):
+    mydb = mysql.connector.connect(
+        host="192.168.1.236",
+        user="timurparser",
+        password="timurparser",
+        database="timurparser")
+
+    mycursor = mydb.cursor()
+
+    sql = "INSERT INTO hr_parser_content(message_id, message_details,title, from_name, replied_message_id, replied_message_details, text, content, joined) " \
+      "VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)"
+    val = (23, '#gotomessage23', '23.08.2004', 'Borya', 21, '#goto21', 'iuu | vayaa', 'puty/istinnogo/samuraya', True)
+    mycursor.execute(sql, val)
+
+    mydb.commit()
+
+    print(mycursor.rowcount, "record inserted.")
+
+# mydb = mysql.connector.connect(
+#         host="192.168.1.236",
+#         user="timurparser",
+#         password="timurparser",
+#         database="timurparser")
+#
+# mycursor = mydb.cursor()
+# mycursor.execute("CREATE TABLE (name VARCHAR(255), address VARCHAR(255))")
 
 
 

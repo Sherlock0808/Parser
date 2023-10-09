@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-r*bk2-su7vhciwpj#!#rstb*mpm$l+52v7ay(@xg4((@gyh+@!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["192.168.1.236"]
 
 
 # Application definition
@@ -76,8 +76,12 @@ WSGI_APPLICATION = 'django_orm.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'timurparser',
+        "USER": "timurparser",
+        "PASSWORD": "timurparser",
+        "HOST": "192.168.1.236",
+        "PORT": "3306",
     }
 }
 
@@ -122,3 +126,4 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
